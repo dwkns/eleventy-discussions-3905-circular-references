@@ -1,4 +1,5 @@
-# Minimal Eleventy v3 repo 
-Useful for tracking down bugs
+# Eleventy Discussions 3905
+See: https://github.com/11ty/eleventy/discussions/3905
 
-`yarn && yarn dev` to install and run.
+
+`npm install && npm run dev` to install and run.
