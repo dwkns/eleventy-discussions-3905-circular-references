@@ -10,6 +10,7 @@ export default (eleventyConfig) => {
 
   eleventyConfig.addCollection("posts", (collection) => {
     let posts = collection.getFilteredByGlob("src/posts/*.md");
+    // Filter and sort posts as needed
     return posts 
   });
 }
